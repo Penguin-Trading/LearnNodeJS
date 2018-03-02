@@ -18,6 +18,7 @@
 13. 连接MongoDB
 14. 插入MongoDB文档
 15. 读出MongoDB文档
+16. Promise帮我逃出地狱
 
 ## 课程文件
 
