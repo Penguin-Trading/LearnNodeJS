@@ -19,6 +19,7 @@
 14. 插入MongoDB文档
 15. 读出MongoDB文档
 16. Promise帮我逃出地狱
+17. 逃出地狱Go!Go!Go!
 
 ## 课程文件
 
