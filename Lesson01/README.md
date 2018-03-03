@@ -18,7 +18,7 @@ https://nodejs.org/
 ## 基础知识
 
 + Javascript/ES2015(ES6)
-+ Unix/Linux
++ Unix/Linux(Ubuntu)
 
 ## 开发工具
 
